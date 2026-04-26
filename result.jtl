@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1777234477939,270,GET Request to httpbin,200,OK,Simple Thread Group 1-1,text,true,,484,112,1,1,http://httpbin.org/get,256,0,136
